@@ -22,5 +22,10 @@
 - Where async is used in my current project:
 - Where DI is already helping me (or not):
 
+## Observation Today
+- One thing in my current project that feels tightly coupled:
+- One thing I would redesign if I had full ownership:
+
+
 ## Questions / Confusions
 - (write honestly, even if basic)
